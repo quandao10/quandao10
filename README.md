@@ -7,4 +7,4 @@
 I am a PhD student in CS at Rutgers University, advised by distinguished Prof. Dimitris Metaxas. My research interest lies on Generative Modeling.
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=quandao10&hide=stars&count_private=true&show_icons=true&theme=tokyonight" alt="Quan's Github Stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=quandao10&count_private=true&show_icons=true&theme=tokyonight" alt="Quan's Github Stats">
