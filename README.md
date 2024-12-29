@@ -4,5 +4,4 @@
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=g0RS3_kAAAAJ&hl=en)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/kevin-qdao-ai/)
 
-I am a PhD student in CS at Rutgers University, advised by distinguished Prof. Dimitris Metaxas. My research interest lies on Generative Modeling.
----
+
